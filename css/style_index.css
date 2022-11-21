@@ -71,3 +71,8 @@ section .sobre {
     height: 30px;
     cursor: pointer;
 }
+
+.texto-sobre button a {
+    color: white;
+    text-decoration: none;
+}
